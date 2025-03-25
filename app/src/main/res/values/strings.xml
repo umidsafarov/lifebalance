@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Life Balance</string>
+
+    <string name="title_color_choose">Choose a new color</string>
+
+    <string name="label_selected_color">Selected</string>
+
+    <string name="button_change_color">Change Color</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_close">Close</string>
+
+    <string name="message_empty_items">No items available</string>
+
+    <string name="error_unknown">Something went wrong</string>
+
+    <string name="content_description_add_task">Add Task</string>
+    <string name="content_description_save_task">Save Task</string>
+    <string name="content_description_delete_task">Delete Task</string>
+    <string name="content_description_discard_changes">Discard Changes</string>
+
+    <string name="compose_test_tag_preloader">Preloader</string>"
+    <string name="compose_test_tag_item_preloader">Item Preloader</string>"
+    <string name="compose_test_tag_task_details_container">Task Details Container</string>
+    <string name="compose_test_tag_choose_color_item">Choose Color Item</string>
+    <string name="title_activity_hilt_entry_point">HiltEntryPointActivity</string>
+</resources>
