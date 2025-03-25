@@ -46,7 +46,7 @@ This project emphasizes the importance of testing and includes a comprehensive s
 3.  **Build and Run:** Build the project and run it on an emulator or physical device.
 
 ## Run the project
-1. **Download APK** from github.com/umidsafarov/lifebalance/blob/main/bin/lifebalance.apk
+1. **Download APK** from [this page](https://github.com/umidsafarov/lifebalance/blob/main/bin/lifebalance.apk)
 2. **Install APK** file to your android device
 
 ## License
